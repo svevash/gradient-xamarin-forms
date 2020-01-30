@@ -1,0 +1,13 @@
+C:\Users\Svetlana\source\repos\Gradient\Gradient\bin\Debug\netstandard2.0\Gradient.deps.json
+C:\Users\Svetlana\source\repos\Gradient\Gradient\bin\Debug\netstandard2.0\Gradient.dll
+C:\Users\Svetlana\source\repos\Gradient\Gradient\bin\Debug\netstandard2.0\ref\Gradient.dll
+C:\Users\Svetlana\source\repos\Gradient\Gradient\bin\Debug\netstandard2.0\Gradient.pdb
+C:\Users\Svetlana\source\repos\Gradient\Gradient\obj\Debug\netstandard2.0\Gradient.csprojAssemblyReference.cache
+C:\Users\Svetlana\source\repos\Gradient\Gradient\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Svetlana\source\repos\Gradient\Gradient\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Svetlana\source\repos\Gradient\Gradient\obj\Debug\netstandard2.0\Gradient.AssemblyInfoInputs.cache
+C:\Users\Svetlana\source\repos\Gradient\Gradient\obj\Debug\netstandard2.0\Gradient.AssemblyInfo.cs
+C:\Users\Svetlana\source\repos\Gradient\Gradient\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Svetlana\source\repos\Gradient\Gradient\obj\Debug\netstandard2.0\Gradient.dll
+C:\Users\Svetlana\source\repos\Gradient\Gradient\obj\Debug\netstandard2.0\ref\Gradient.dll
+C:\Users\Svetlana\source\repos\Gradient\Gradient\obj\Debug\netstandard2.0\Gradient.pdb
